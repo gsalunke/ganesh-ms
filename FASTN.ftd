@@ -1,6 +1,6 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
+-- fastn.package: gsalunke.github.io/ganesh-ms
 
 -- fastn.dependency: fifthtry.github.io/doc-site
 -- fastn.dependency: fifthtry.github.io/ms-docs
@@ -8,7 +8,7 @@
 
 
 -- fastn.auto-import: fifthtry.github.io/doc-site as ds
--- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
+-- fastn.auto-import: gsalunke.github.io/ganesh-ms/assets
 
 
 
