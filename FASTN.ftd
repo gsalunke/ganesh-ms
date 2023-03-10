@@ -1,0 +1,24 @@
+-- import: fastn
+
+-- fastn.package: <user_name>.github.io/<repo_name>
+
+-- fastn.dependency: fifthtry.github.io/doc-site
+-- fastn.dependency: fifthtry.github.io/ms-docs
+-- fastn.dependency: fifthtry.github.io/wireframe-ms
+
+
+-- fastn.auto-import: fifthtry.github.io/doc-site as ds
+-- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
+
+
+
+
+-- fastn.sitemap:
+
+# Home: index.html
+- Master `hero` component: hero/
+- Master `button` component: button/
+- Master `quote` component: quote/
+
+# GitHub
+  url: https://github.com/FifthTry/ms-template
