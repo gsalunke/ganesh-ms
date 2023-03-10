@@ -23,6 +23,7 @@
 -- fastn.sitemap:
 
 # Home: index.html
+- Full screen `hero` component: hero-usage/
 - Master `hero` component: hero/
 - Master `button` component: button/
 - Master `quote` component: quote/

@@ -1,0 +1,29 @@
+-- import: gsalunke.github.io/ganesh-ms/assets
+-- import: gsalunke.github.io/ganesh-ms/hero
+
+
+
+-- ftd.column:
+width: fill-container
+background.solid: $inherited.colors.background.base
+height: fill-container
+
+
+-- ftd.column:
+width: fill-container
+max-width.fixed.px: 1240
+align-self: center
+padding.px: 100
+
+-- hero.hero-with-image: Instant, fee-free payments for small business.
+cta-text-1: Enter Your Work Email
+cta-link-1: /
+cta-text-2: Sign me up
+cta-link-2: /
+image: $assets.files.static.dashboard.png
+
+Pay and get paid in real-time with zero fees. Secure, streamlined, and super fast.
+
+-- end: ftd.column
+
+-- end: ftd.column
